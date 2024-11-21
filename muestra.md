@@ -1,4 +1,5 @@
 ## Código HTML:
+```
 <!DOCTYPE html>
 <html lang="en">
 
@@ -77,8 +78,10 @@
 </body>
 
 </html>
+```
 
 ## Código CSS del mismo documento HTML:
+```
 html{
     height:100%;
 }
@@ -143,7 +146,9 @@ p{
     color: #50821B;
     font-size: 3vw;
 }
+```
 ## Código en KOTLIN:
+```
 fun main() {
    var filasMax = readln().toInt()
 
@@ -187,3 +192,4 @@ fun main() {
        filasMax = readln().toInt()
        }
    }
+```
