@@ -1,5 +1,5 @@
 # Yanira Vivel Couso
-![Me](/home/ladmin/Desktop/cv_personal/yo.jpg)
+![Me](./home/ladmin/Desktop/cv_personal/yo.jpg)
 
 ### Senior Software Engineer
 
