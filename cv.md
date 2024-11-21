@@ -1,5 +1,5 @@
 # Yanira Vivel Couso
-![Me](./img/yo.jpg)
+![Me](./images/yo.jpg)
 
 ### Senior Software Engineer
 
@@ -23,5 +23,5 @@ y experiencia en codificación en **C**, **Python**, **Java** y **Unity**.
 [Gmail](https://workspace.google.com/intl/es-419/gmail/): a24yaniravc@iessanclemente.net
 
 ## Muestras de trabajo:
-[![HTML, CSS Y KOTLIN](./img/HTML.png)](./cv.md)
-[![KOTLIN](./img/KOTLIN.png)](https://github.com/a24yaniravc/adivina_un_numero)
+[![HTML, CSS Y KOTLIN](./images/HTML.png)](./cv.md)
+[![KOTLIN](./images/KOTLIN.png)](https://github.com/a24yaniravc/adivina_un_numero)
