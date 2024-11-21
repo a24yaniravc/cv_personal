@@ -23,5 +23,5 @@ y experiencia en codificación en **C**, **Python**, **Java** y **Unity**.
 [Gmail](https://workspace.google.com/intl/es-419/gmail/): a24yaniravc@iessanclemente.net
 
 ## Muestras de trabajo:
-[![HTML, CSS Y KOTLIN](./images/HTML.png)](./cv.md)
+[![HTML, CSS Y KOTLIN](./images/HTML.png)](./muestra.md)
 [![KOTLIN](./images/KOTLIN.png)](https://github.com/a24yaniravc/adivina_un_numero)
