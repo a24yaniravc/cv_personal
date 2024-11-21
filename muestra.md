@@ -108,10 +108,11 @@ main {
     padding-top: 4vw; padding-bottom: 4vw;
 }
 
-main>section{
+section{
     display: flex;
+    flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: center;
 }
 
 main>section>article{
@@ -122,9 +123,12 @@ main>section>article{
 
 main>section>article>figure{
     background-color: rgb(224,230,166);
-    border-radius: 5%;
-    padding: 1vw;
+    border-radius: 3%;
+    padding: 3vw;
     padding-bottom: 1vw;
+    margin: 1vw;
+    border: solid;
+    border-color: #d8df8f;
 }
 
 main>section>article>figure>img{
